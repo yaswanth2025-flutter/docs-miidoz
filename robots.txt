@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-v3n2c1.pulaucuan.online/sitemap.xml
